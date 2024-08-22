@@ -34,7 +34,7 @@ export default function ContactList({ setSelectedContactId }) {
     <table>
       <thead>
         <tr>
-          <th colSpan="3">Contact List</th>
+          <th colSpan="3">Contact List - Choose a Name:</th>
         </tr>
       </thead>
       <tbody>
